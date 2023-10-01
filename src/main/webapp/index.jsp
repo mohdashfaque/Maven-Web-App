@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>NProject sucessfully deployed </h2>
+<h2>Project sucessfully deployed </h2>
 </body>
 </html>
